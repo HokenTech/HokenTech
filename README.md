@@ -70,7 +70,4 @@ Hoken Tech is a  little Italian startup that connect brands to people through NF
 <br/>  
 
 
-<br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
