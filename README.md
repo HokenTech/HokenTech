@@ -31,18 +31,6 @@ Hoken Tech is a  little Italian startup that connect brands to people through NF
 - [Custom NFT collections](https://www.hokentech.tech/category/nfts)
   
   
-
-<br/>  
-
-
-## Blog post  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-
 ## Languages and Tools  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
